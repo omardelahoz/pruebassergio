@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DFFA223B-5F09-42B3-868C-7D91178C2CC2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SIR.Autenticacion.Api/Controllers/EmptyClass.cs">
+    <Files>
+      <File FileName="SIR.Autenticacion.Api/Controllers/EmptyClass.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SIR" expanded="True">
+            <Node name="Apis" expanded="True">
+              <Node name="SIR.Autenticacion.Api" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="EmptyClass.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Apis.SIR.Autenticacion.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
